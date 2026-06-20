@@ -3,7 +3,8 @@
 Frontend Engineer en Infoport. Arquitectura de sistemas frontend e ingeniería de IA.
 Angular 16 → 21, TypeScript, Signals, WebAssembly, SSE, PostgreSQL + pgvector.
 
-[https://www.pablodiazjorge.com](https://www.pablodiazjorge.com)
+[www.pablodiazjorge.com](https://www.pablodiazjorge.com)
+[in/pablodiazjorge](https://www.linkedin.com/in/pablodiazjorge)
 
 ---
 
