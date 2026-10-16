@@ -10,8 +10,8 @@ Frontend Engineer at Infoport.
 
 #### Now
 
-**[rea](https://github.com/morluto/rea)**: contributor to the open-source toolkit for reverse engineering with agents (six merged PRs, verification with real Ghidra on Windows).  
-**[rea-lab](https://github.com/pablodiazjorge/rea-lab)**: public lab and two preregistered studies on what rea adds to a coding agent.  
+**[rea](https://github.com/morluto/rea)**: contributor to the open-source toolkit for reverse engineering with agents (eight merged PRs, verification with real Ghidra on Windows).  
+**[rea-lab](https://github.com/pablodiazjorge/rea-lab)**: public lab and four preregistered studies on what rea adds to a coding agent.  
 **[rea-casebook](https://github.com/pablodiazjorge/rea-casebook)**: Claude Code mod that keeps a live casebook of the evidence rea gives the agent.  
 **[impact-radius](https://github.com/pablodiazjorge/impact-radius)**: Claude Code mod that holds risky shell commands until you press Run or Cancel.
 
