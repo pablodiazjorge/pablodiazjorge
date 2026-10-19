@@ -19,7 +19,7 @@ I build tools for AI coding agents and measure, with preregistered studies, what
 |---|---|
 | [impact-radius](https://github.com/pablodiazjorge/impact-radius) | Claude Code mod that holds risky shell commands, CI on Windows/macOS/Linux, WCAG AAA pane |
 | [gym-log](https://github.com/pablodiazjorge/gym-log) | Angular 22 zoneless + signals, 240 tests, ESLint, ADRs |
-| [Candle AI](https://github.com/pablodiazjorge/candle-ai) | Angular 22, Web Workers,IndexedDB, Lightweight Charts, 160 tests |
+| [Candle AI](https://github.com/pablodiazjorge/candle-ai) | Angular 22, Web Workers, IndexedDB, Lightweight Charts, 160 tests |
 | [rea-casebook](https://github.com/pablodiazjorge/rea-casebook) | Live evidence casebook for agents, rejects invented evidence ids, 42 tests |
 | [prompt-forge](https://github.com/pablodiazjorge/prompt-forge) | Shared, PR-reviewed memory for a team's AI coding agents |
 
