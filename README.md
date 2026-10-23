@@ -10,7 +10,7 @@ I build tools for AI coding agents and measure, with preregistered studies, what
 - **[rea-lab](https://github.com/pablodiazjorge/rea-lab)**: evaluation harness for coding agents doing reverse engineering on Windows.
   5 preregistered studies with Claude Code (482 runs), deterministic grading (no LLM judge), paired statistics.
   Headline: rea did not raise the solve rate and roughly doubled cost. [Study 1 →](https://github.com/pablodiazjorge/rea-lab/tree/main/writeups/2026-10-study-1)
-- **[rea](https://github.com/morluto/rea)** contributor: native-Windows verification, Ghidra and MCP server tests.
+- **[rea](https://github.com/morluto/rea)** contributor: 13 merged pull requests in native-Windows verification, setup, Ghidra and MCP server tests.
   [My pull requests →](https://github.com/morluto/rea/pulls?q=is%3Apr+author%3Apablodiazjorge)
 
 #### Selected work
